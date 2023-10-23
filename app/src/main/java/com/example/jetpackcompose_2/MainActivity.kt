@@ -138,7 +138,7 @@ private fun CardContent(name: String) {
             if (expanded) {
                 Text(
                     text = ("Aplicacion de Rafa, " +
-                            "de nada. ").repeat(4),
+                            "Hola. ").repeat(4),
                 )
             }
         }
